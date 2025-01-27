@@ -1,6 +1,13 @@
-this folder includs:
-python file named point2- the expansion of ch11 code with 2 hidden layers.
-python file named point3&4 which includs comparison between 3 models with 2 hidden layers:
-a. The extended model from above, with changes according to solution 1 from the lecture
-b. Fully connected ANN in Keras, also according to solution 1 from the lecture.
-c. The outputs of mse and acc computations from ch11 of the one hidden layer model.
+This folder contains the report for homework 3, including a PDF file titled "Homework 3 Report."
+
+The "codes" folder includes the following files:
+1) point2.py: This file expands the code from chapter 11 by adding two hidden layers.
+2) point3&4.py: This file contains a comparison of three models with two hidden layers:
+a.The extended model mentioned above, modified according to Solution 1 from the lecture.
+b. A fully connected ANN implemented in Keras, also based on Solution 1 from the lecture.
+c. Outputs of MSE and accuracy computations from chapter 11 for the one-hidden-layer model.
+
+
+For any questions, feel free to contact us:
+Maayan's email: ancona@post.bgu.ac.il
+Noa's email: gurno@post.bgu.ac.il
