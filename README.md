@@ -1,5 +1,9 @@
 This folder contains the report for homework 3, including a PDF file titled "Homework 3 Report."
 
+The link to the GitHub source codes is:
+https://github.com/noagurr/-ch11.ipynb-2-hidden-layers.git
+
+
 The "codes" folder includes the following files:
 1) point2.py: This file expands the code from chapter 11 by adding two hidden layers.
 2) point3&4.py: This file contains a comparison of three models with two hidden layers:
