@@ -1,5 +1,3 @@
-# coding: utf-8
-
 import sys
 from tensorflow.keras.datasets import mnist
 import matplotlib.pyplot as plt
